@@ -14,3 +14,6 @@ are no bonds given as input or at least 2 or more
 
 -Due to the previous assumption, I cover more than one edge case in my binary 
 search algorithms
+
+
+Given enough time, I would try to construct better automated test cases
